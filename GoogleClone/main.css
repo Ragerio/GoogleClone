@@ -1,0 +1,62 @@
+a {
+margin-left:10px;
+text-decoration:none;
+color:black;
+font-size:14px;
+margin-top:15px;
+position:relative;
+left:80%;
+}
+
+.signin {
+display: inline-block;
+line-height: 28px;
+padding: 0 12px;
+-webkit-border-radius: 2px;
+border-radius: 2px;
+color:#ffffff;
+outline:none;
+background-color:#0b7ff4;
+background: -webkit-linear-gradient(top,#4387fd,#4683ea);
+}
+
+
+
+input {
+border-color:#c2c2c1
+border:1px;
+width:560px;
+height:22px;
+margin-top:14px;
+}
+
+
+img {
+height:96px;
+width:270px;
+margin-top:180px;
+}
+
+
+#button {
+border: 1px solid #dcdcdc;
+border-color: rgba(0,0,0,0.1);
+color: #444;
+font-size: 11px;
+cursor: default;
+display: inline-block;
+font-weight: bold;
+height: 29px;
+line-height: 29px;
+min-width: 54px;
+padding: 0 8px;
+text-align: center;
+text-decoration: none;
+-webkit-border-radius: 2px;
+border-radius: 2px;
+-webkit-user-select: none;
+position:relative;
+left:44%;
+margin-top:12px;
+}
+
